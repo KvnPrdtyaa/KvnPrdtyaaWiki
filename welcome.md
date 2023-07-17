@@ -1,9 +1,10 @@
 ---
-order: 1200
-label: Quick Start
-icon: zap
+label: Welcome
+icon: :wave:
 ---
 
-# Quick Start
+![](/static/cover.png)
+
+# Welcome
 kkkkk
 ___

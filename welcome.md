@@ -1,3 +1,9 @@
-icon: :wave:
+---
+order: 1200
+label: Quick Start
+icon: zap
+---
 
-heelo
+# Quick Start
+kkkkk
+___

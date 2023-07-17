@@ -2,8 +2,8 @@ input: .
 output: .retype
 url: # Add your website address here
 branding:
-  title: Project Name
-  label: Docs
+  title: KvnPrdtyaa
+  label: Wiki's
 links:
 - text: Getting Started
   link: https://retype.com/guides/getting-started/

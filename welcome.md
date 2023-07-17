@@ -1,6 +1,6 @@
 ---
 label: Welcome
-icon: :wave:
+icon: ":wave:"
 ---
 
 # Welcome

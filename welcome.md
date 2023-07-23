@@ -1,9 +1,21 @@
+<style>
+    .quotes {
+        text-align: center;
+        padding-top: 3px;
+        margin-bottom: 10px;
+    }
+</style>
+
 ---
 label: Welcome
 icon: ":wave:"
 ---
 
-![!badge The more you know, the more you realize you don't know. - Aristotle](/static/cover.jpg)
+![](/static/cover.jpg)
+
+:::quotes
+[!badge variant="dark" text="The more you know, the more you realize you don't know. - Aristotle"]
+:::
 
 # Welcome
 

@@ -1,3 +1,10 @@
+---
+label: Welcome
+icon: ":wave:"
+---
+
+![](/static/cover.jpg)
+
 <style>
     .quotes {
         text-align: center;
@@ -5,13 +12,6 @@
         margin-bottom: 10px;
     }
 </style>
-
----
-label: Welcome
-icon: ":wave:"
----
-
-![](/static/cover.jpg)
 
 :::quotes
 [!badge variant="dark" text="The more you know, the more you realize you don't know. - Aristotle"]

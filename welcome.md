@@ -3,8 +3,8 @@ label: Welcome
 icon: ":wave:"
 ---
 
-![](/static/cover.jpg)
-[!badge text="ok"]
+![`okokok`](/static/cover.jpg)
+
 <style>
     .quotes {
         center-justified

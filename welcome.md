@@ -3,7 +3,7 @@ label: Welcome
 icon: ":wave:"
 ---
 
-![`okokok`](/static/cover.jpg)
+![!badge][oklah](/static/cover.jpg)
 
 <style>
     .quotes {

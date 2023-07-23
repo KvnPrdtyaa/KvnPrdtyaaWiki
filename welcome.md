@@ -4,6 +4,9 @@ icon: ":wave:"
 ---
 
 ![](/static/cover.jpg)
+:::
+[!badge variant="dark" size="xl" text="The more you know, the more you realize you don't know. - Aristotle"]
+:::
 
 # Welcome
 

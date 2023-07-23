@@ -3,7 +3,7 @@ label: Welcome
 icon: ":wave:"
 ---
 
-![](/static/cover.jpg)
+[!badge text"ss"](/static/cover.jpg)
 
 <style>
     .quotes {

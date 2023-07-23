@@ -7,9 +7,11 @@ icon: ":wave:"
 [!badge text="ok"]
 <style>
     .quotes {
-        text-align: center;
-        padding-bottom: 20px;
-        margin-bottom: 20px;
+        center-justified
+        text-align: justify;
+        text-align-last: center;
+        padding-top: 3px;
+        margin-bottom: 10px;
     }
 </style>
 

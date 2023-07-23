@@ -7,12 +7,12 @@ icon: ":wave:"
 
 <style>
     .quotes {
-        margin-top: 5px;
+        margin-top: 20px;
     }
 </style>
 
 :::quotes
-[!badge variant="dark" text="The more you know, the more you realize you don't know. - Aristotle"]
+[!badge variant="dark" text="Knowledge is power. - Sir Francis Bacon"]
 :::
 
 # Welcome

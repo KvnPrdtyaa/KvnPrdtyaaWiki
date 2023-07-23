@@ -3,7 +3,7 @@ label: Welcome
 icon: ":wave:"
 ---
 
-![The more you know, the more you realize you don't know. - Aristotle](/static/cover.jpg")
+![The more you know, the more you realize you don't know. - Aristotle](/static/cover.jpg)
 
 # Welcome
 

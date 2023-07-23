@@ -8,7 +8,7 @@ icon: ":wave:"
 <style>
     .quotes {
         text-align: center;
-        padding-bottom: 3px;
+        padding-top: 3px;
         margin-top: 20px;
     }
 </style>

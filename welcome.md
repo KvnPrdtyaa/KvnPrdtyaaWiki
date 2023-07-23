@@ -3,8 +3,8 @@ label: Welcome
 icon: ":wave:"
 ---
 
-[!badge text"ss"](/static/cover.jpg)
-
+![](/static/cover.jpg)
+[!badge text="ok"]
 <style>
     .quotes {
         text-align: center;

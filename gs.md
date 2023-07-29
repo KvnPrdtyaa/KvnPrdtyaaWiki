@@ -16,7 +16,7 @@ If you don't do this, you'll wind up using your ISP's default DNS, which is like
 ## 2. Alternate Browsers
 Use these if you want more privacy protections. check this webstite for list which web browsers offer the best privacy protections. [Click Here!](https://privacytests.org/)
 
-### If you were using chromium or firefox
+- ### If you were using chromium or firefox
 Use [uBlock Origin](https://github.com/gorhill/uBlock) + [Optimized Settings](https://take-me-to.space/en2mB3u.png) (Blocks advertisements & malware)
 
 ## 3. Use qBittorrent as Torrent Client

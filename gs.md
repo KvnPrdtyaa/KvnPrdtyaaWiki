@@ -25,9 +25,7 @@ ___
 > If you play around in Private Trackers, torrent must downloaded by qBittorent Or Transmission client. so both of them is recommended.
 
 ## 4. Set up VPN
-- Torrenting without proper protection may get you in trouble because your IP address is visible due to the nature of the protocol. 
-
-- [x] purpose of set up VPN for Changes IP address to hide identity.
+- Torrenting without proper protection may get you in trouble because your IP address is visible due to the nature of the protocol. purpose of set up VPN for Changes IP address to hide identity.
 
      - [AirVPN](https://airvpn.org/)
      - [ProtonVPN](https://protonvpn.com/)

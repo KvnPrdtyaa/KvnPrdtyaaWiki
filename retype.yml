@@ -1,4 +1,4 @@
-input: .
+input: ./
 output: .retype
 url: https://kvnprdtyaa.pages.dev/
 branding:
@@ -11,3 +11,5 @@ links:
   target: blank
 footer:
   copyright: ""
+meta:
+  title: " - KvnPrdtyaa Wiki's"

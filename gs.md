@@ -1,4 +1,5 @@
 ---
+order: 1200
 label: Getting Started
 icon: ":zap:"
 ---

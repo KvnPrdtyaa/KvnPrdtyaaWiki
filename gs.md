@@ -4,7 +4,7 @@ label: Getting Started
 icon: ":zap:"
 ---
 
-![](/static/gs.jpeg)
+![](/static/gs.png)
 # Getting Started
 Do this before Action!
 ___

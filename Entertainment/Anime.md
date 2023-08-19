@@ -2,4 +2,4 @@
 icon: ":fish_cake:"
 ---
 
-![](/static/anime.png)
+![](/static/assets/banner/anime.png)

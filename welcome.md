@@ -3,7 +3,7 @@ label: Welcome
 icon: ":wave:"
 ---
 
-![`The more you know, the more you realize you don't know. - Aristotle`](/static/cover.png)
+![`The more you know, the more you realize you don't know. - Aristotle`](/static/assets/banner/cover.png)
 
 # Welcome
 
@@ -18,5 +18,5 @@ Welome to My Wiki! Here, this site is dedication for sharing my educational abou
 </style>
 
 :::sample
-[!badge variant="dark" icon="/static/pirates.gif" size="xl" text="Let's Sailing!"](/gs.md)
+[!badge variant="dark" icon="/static/assets/icon/pirates.gif" size="xl" text="Let's Sailing!"](/gs.md)
 :::

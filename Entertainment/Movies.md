@@ -2,4 +2,4 @@
 icon: ":clapper:"
 ---
 
-![](/static/movies.png)
+![](/static/assets/banner/movies.png)

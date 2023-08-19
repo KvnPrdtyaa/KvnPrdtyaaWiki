@@ -2,4 +2,4 @@
 icon: ":tv:"
 ---
 
-![](/static/tv_shows.png)
+![](/static/assets/banner/tv_shows.png)

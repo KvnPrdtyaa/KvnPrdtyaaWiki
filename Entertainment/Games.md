@@ -2,4 +2,4 @@
 icon: ":video_game:"
 ---
 
-![](/static/games.png)
+![](/static/assets/banner/games.png)

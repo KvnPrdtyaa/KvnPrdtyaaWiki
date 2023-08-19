@@ -1,3 +1,3 @@
 ---
-icon: ":/static/assets/icon/pirates.gif:"
+icon: "../static/assets/icon/pirates.gif"
 ---

@@ -1,3 +1,3 @@
 ---
-icon: "../static/assets/icon/mpv.icon"
+icon: "../static/assets/icon/mpv.png"
 ---

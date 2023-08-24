@@ -4,7 +4,7 @@ icon: ":clapper:"
 ---
 
 ![](/static/assets/banner/movies.png)
-# Movies
+# Movies & TV Shows
 
 DDL / Torrents / Streaming Movies
 ___

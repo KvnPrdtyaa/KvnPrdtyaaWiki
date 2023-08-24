@@ -19,7 +19,9 @@ ___
 - [**NIMA4K**](https://nima4k.org/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"] [!badge variant="dark" size="xs" text="4K"]
     - Need Premium Account for Download (DDL.to, Rapidgator)
     - Provide 4K UHD Blu-Ray, Complete BD, Regrades.
-- [**PSArips**](https://psa.wf/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"] [!badge variant="dark" size="xs" text="x265"]
+- [**Pahe**](https://pahe.li/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"] [!badge variant="dark" size="xs" text="ENCODER"]
+    - some encodes suffer minor artifacting/detail loss. Sometimes quality grain.
+- [**PSArips**](https://psa.wf/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"] [!badge variant="dark" size="xs" text="ENCODER"] [!badge variant="dark" size="xs" text="x265"]
     - Specialist HEVC Encode
     - Recommended Site for those looking for High Quality At Affordable Size.
 - [**RapidMoviez**](https://rmz.cr/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]

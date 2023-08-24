@@ -6,7 +6,7 @@ icon: ":clapper:"
 ![](/static/assets/banner/movies.png)
 # Movies
 
-DDL / Torrents / Streaming Movies / DDL Based Forum
+DDL / Torrents / Streaming Movies
 ___
 
 ## DDL

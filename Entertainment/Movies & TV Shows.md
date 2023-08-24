@@ -1,4 +1,5 @@
 ---
+label: Movies & TV Shows
 icon: ":clapper:"
 ---
 

@@ -1,3 +1,3 @@
 ---
-icon: :two_hearts:
+icon: ":two_hearts:"
 ---

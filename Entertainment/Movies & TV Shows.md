@@ -61,7 +61,7 @@ ___
 - [**BitSearch**](https://bitsearch.to/)[!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
 - [**BullTorrent**](https://www.bulltorrent.com/)[!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
 - [**EXT Torrents**](https://ext.to/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
-- [**ExtraTorrent.st**](https://extratorrent.st/)
+- [**ExtraTorrent.st**](https://extratorrent.st/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
 - [**EZTV**](https://eztv.re/) [!badge variant="dark" size="xs" text="TV Shows"]
 - [**GloDLS**](https://glodls.to/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
 - [**isoHunt**](https://isohunt.nz/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]

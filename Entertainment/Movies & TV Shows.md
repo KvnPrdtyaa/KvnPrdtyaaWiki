@@ -56,28 +56,25 @@ ___
     - Need Premium Account for Download (Nitroflare)
 
 ## Torrents
-- [**1337x**](https://1337x.to/)
-- [**Badass Torrents**](https://badasstorrents.com/)
-- [**BitSearch**](https://bitsearch.to/)
-- [**BullTorrent**](https://www.bulltorrent.com/)
-- [**EXT Torrents**](https://ext.to/)
+- [**1337x**](https://1337x.to/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
+- [**Badass Torrents**](https://badasstorrents.com/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
+- [**BitSearch**](https://bitsearch.to/)[!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
+- [**BullTorrent**](https://www.bulltorrent.com/)[!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
+- [**EXT Torrents**](https://ext.to/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
 - [**ExtraTorrent.st**](https://extratorrent.st/)
-- [**EZTV**](https://eztv.re/)
-- [**GloDLS**](https://glodls.to/)
-- [**isoHunt**](https://isohunt.nz/)
-- [**iDope**](https://idope.se/)
-- [**iTorrent**](https://itorrent.ws/)
-- [**Knaben**](https://knaben.eu/)
-- [**LimeTorrents**](https://www.limetorrents.lol/)
-- [**Nyaa.si**](https://nyaa.si/)
-- [**RuTor**](http://rutor.info/)
-- [**Solid Torrents**](https://solidtorrents.to/)
-- [**Torlock**](https://www.torlock2.com/)
-- [**Torrent Downloads**](https://www.torrentdownloads.pro/)
-- [**Torrent[CORE]**](https://torrentcore.xyz/)
-- [**TorrentFunk**](https://www.torrentfunk.com/)
-- [**TorrentGalaxy**](https://torrentgalaxy.to/)
-- [**TorrentQQ**](https://torrentqq.net/)
-- [**TorrentView**](https://viewtorrent13.com/)
-- [**Torrentz2nz**](https://torrentz2.nz/)
-- [**YourBittorrent**](https://yourbittorrent.com/)
+- [**EZTV**](https://eztv.re/) [!badge variant="dark" size="xs" text="TV Shows"]
+- [**GloDLS**](https://glodls.to/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
+- [**isoHunt**](https://isohunt.nz/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
+- [**iDope**](https://idope.se/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
+- [**iTorrent**](https://itorrent.ws/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
+- [**Knaben**](https://knaben.eu/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
+- [**LimeTorrents**](https://www.limetorrents.lol/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
+- [**RuTor**](http://rutor.info/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
+- [**Solid Torrents**](https://solidtorrents.to/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
+- [**Torlock**](https://www.torlock2.com/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
+- [**Torrent Downloads**](https://www.torrentdownloads.pro/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
+- [**Torrent[CORE]**](https://torrentcore.xyz/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
+- [**TorrentFunk**](https://www.torrentfunk.com/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
+- [**TorrentGalaxy**](https://torrentgalaxy.to/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
+- [**Torrentz2nz**](https://torrentz2.nz/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
+- [**YourBittorrent**](https://yourbittorrent.com/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]

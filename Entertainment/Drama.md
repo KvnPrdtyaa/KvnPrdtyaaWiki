@@ -2,4 +2,4 @@
 icon: ":two_hearts:"
 ---
 
-![](/static/assets/banner/anime.png)
+![](/static/assets/banner/drama.png)

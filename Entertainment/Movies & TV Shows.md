@@ -80,16 +80,16 @@ ___
 - [**YourBittorrent**](https://yourbittorrent.com/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
 
 ## Streaming
-- [**FMovies**](https://fmovies.name/)
-- [**movie-web**](https://movie-web.app/)
-- [**SFlix**](https://sflix.to/)
-- [**HDtoday**](https://hdtoday.cc/)
-- [**C1NE**](https://c1ne.co/)
-- [**Watch Series**](https://watchseries.cyou/)
-- [**lookmovie**](https://lookmovie2.to/)
-- [**Goojara**](https://www.goojara.to/)
-- [**Ymovies**](https://ymovies.vip/)
-- [**Just Chill**](https://www.justchill.tv/)
+- [**FMovies**](https://fmovies.name/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
+- [**movie-web**](https://movie-web.app/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
+- [**SFlix**](https://sflix.to/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
+- [**HDtoday**](https://hdtoday.cc/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
+- [**C1NE**](https://c1ne.co/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
+- [**Watch Series**](https://watchseries.cyou/) [!badge variant="dark" size="xs" text="TV Shows"]
+- [**lookmovie**](https://lookmovie2.to/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
+- [**Goojara**](https://www.goojara.to/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
+- [**Ymovies**](https://ymovies.vip/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
+- [**Just Chill**](https://www.justchill.tv/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
     - requires Google or Discord Account for Streaming
-- [**Goku**](https://goku.sx/)
+- [**Goku**](https://goku.sx/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
 

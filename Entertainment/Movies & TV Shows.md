@@ -89,7 +89,5 @@ ___
 - [**lookmovie**](https://lookmovie2.to/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
 - [**Goojara**](https://www.goojara.to/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
 - [**Ymovies**](https://ymovies.vip/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
-- [**Just Chill**](https://www.justchill.tv/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
-    - requires Google or Discord Account for Streaming
 - [**Goku**](https://goku.sx/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
 

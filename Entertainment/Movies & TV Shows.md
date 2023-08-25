@@ -78,3 +78,5 @@ ___
 - [**TorrentGalaxy**](https://torrentgalaxy.to/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
 - [**Torrentz2nz**](https://torrentz2.nz/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
 - [**YourBittorrent**](https://yourbittorrent.com/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
+
+## Streaming

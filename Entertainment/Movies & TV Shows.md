@@ -80,3 +80,16 @@ ___
 - [**YourBittorrent**](https://yourbittorrent.com/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
 
 ## Streaming
+- [**FMovies**](https://fmovies.name/)
+- [**movie-web**](https://movie-web.app/)
+- [**SFlix**](https://sflix.to/)
+- [**HDtoday**](https://hdtoday.cc/)
+- [**C1NE**](https://c1ne.co/)
+- [**Watch Series**](https://watchseries.cyou/)
+- [**lookmovie**](https://lookmovie2.to/)
+- [**Goojara**](https://www.goojara.to/)
+- [**Ymovies**](https://ymovies.vip/)
+- [**Just Chill**](https://www.justchill.tv/)
+    - requires Google or Discord Account for Streaming
+- [**Goku**](https://goku.sx/)
+

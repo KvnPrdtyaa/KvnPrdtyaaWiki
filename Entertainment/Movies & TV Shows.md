@@ -6,7 +6,7 @@ icon: ":clapper:"
 ![](/static/assets/banner/movies.png)
 # Movies & TV Shows
 
-DDL / Torrents / Streaming Movies
+DDL / Torrents / Streaming
 ___
 
 ## DDL
@@ -80,14 +80,16 @@ ___
 - [**YourBittorrent**](https://yourbittorrent.com/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
 
 ## Streaming
-- [**FMovies**](https://fmovies.name/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
-- [**movie-web**](https://movie-web.app/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
-- [**SFlix**](https://sflix.to/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
-- [**HDtoday**](https://hdtoday.cc/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
+- [**AZMovies**](https://azm.to/) [!badge variant="dark" size="xs" text="Movies"]
 - [**C1NE**](https://c1ne.co/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
-- [**Watch Series**](https://watchseries.cyou/) [!badge variant="dark" size="xs" text="TV Shows"]
-- [**lookmovie**](https://lookmovie2.to/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
+- [**FMovies**](https://fmovies.name/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
 - [**Goojara**](https://www.goojara.to/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
-- [**Ymovies**](https://ymovies.vip/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
 - [**Goku**](https://goku.sx/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
+- [**HDtoday**](https://hdtoday.cc/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
+- [**lookmovie**](https://lookmovie2.to/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
+- [**movie-web**](https://movie-web.app/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
+- [**onionplay**](https://onionplay.se/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
+- [**SFlix**](https://sflix.to/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
+- [**Watch Series**](https://watchseries.im/home) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
+- [**Ymovies**](https://ymovies.vip/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
 

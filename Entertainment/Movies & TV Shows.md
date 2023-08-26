@@ -36,7 +36,7 @@ ___
     - For Fast Download Need Premium Account (Uloz)
 - [**Rarelust**](https://rarelust.com/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="Cinema"]
     - For Fast Download Need Premium Account (Tezfiles)
-- [**ReleaseBB**](https://rlsbb.ru/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
+- [**ReleaseBB**](https://rlsbb.ru/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"] [!badge variant="dark" size="xs" text="Scene"]
     - Provide Various Link of DDL Sometimes u Need Premium Account Of DDL Service for getting Fast Download Speed
 - [**ReleaseHive**](https://releasehive.org/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
     - Sometimes Need Premium Account for Download (Rapidgator & Nitroflare)

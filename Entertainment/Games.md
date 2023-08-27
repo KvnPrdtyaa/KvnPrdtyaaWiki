@@ -51,8 +51,8 @@ ___
 
 ## Torrents
 - [**EMPRESS Release**](https://telegra.ph/empress-biography-07-15) [!badge variant="dark" size="xs" text="Telegraph"]
+- [**Mac Torrents**](https://www.torrentmac.net/category/games/) [!badge variant="dark" size="xs" text="Mac OS"]
+- [**Rustorka**](https://rustorka.com/forum/index.php) [!badge variant="dark" size="xs" text="Forum"]
 - [**RuTor**](http://www.rutor.info/)
 - [**RuTracker**](https://rutracker.org/forum/index.php) [!badge variant="dark" size="xs" text="Forum"]
-- [**Rustorka**](https://rustorka.com/forum/index.php) [!badge variant="dark" size="xs" text="Forum"]
 - [**Tapocheck**](https://tapochek.net/index.php) [!badge variant="dark" size="xs" text="Forum"]
-- [**Mac Torrents**](https://www.torrentmac.net/category/games/) [!badge variant="dark" size="xs" text="Mac OS"]

@@ -18,5 +18,5 @@ Welome to My Wiki! Here, this site is dedication for sharing my educational abou
 </style>
 
 :::sample
-[!badge variant="dark" icon="/static/assets/icon/pirates.gif" size="xl" text="Let's Sailing!"](/gs.md)
+[!badge variant="dark" icon="/static/assets/icon/welcome.gif" size="xl" text="Let's Explore!"](/gs.md)
 :::

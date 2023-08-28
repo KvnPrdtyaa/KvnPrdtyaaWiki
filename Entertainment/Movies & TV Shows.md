@@ -79,6 +79,13 @@ ___
 - [**Torrentz2nz**](https://torrentz2.nz/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
 - [**YourBittorrent**](https://yourbittorrent.com/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
 
+!!! :icon-light-bulb: Tips
+"Use Jackett or Prowlarr to make it easier for you to search for items from all the torrents listed above in just one click."
+!!!
+
+
+
+
 ## Streaming
 - [**AZMovies**](https://azm.to/) [!badge variant="dark" size="xs" text="Movies"]
 - [**C1NE**](https://c1ne.co/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]

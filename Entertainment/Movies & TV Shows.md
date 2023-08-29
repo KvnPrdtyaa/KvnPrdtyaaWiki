@@ -58,11 +58,13 @@ ___
 ## Torrents
 - [**1337x**](https://1337x.to/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
 - [**Badass Torrents**](https://badasstorrents.com/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
-- [**BitSearch**](https://bitsearch.to/)[!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
+- [**BitSearch**](https://bitsearch.to/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
+- [**BT4G**](https://bt4gprx.com/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
 - [**BullTorrent**](https://www.bulltorrent.com/)[!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
 - [**EXT Torrents**](https://ext.to/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
 - [**ExtraTorrent.st**](https://extratorrent.st/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
 - [**EZTV**](https://eztv.re/) [!badge variant="dark" size="xs" text="TV Shows"]
+- [**FileListing**](https://filelisting.com/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
 - [**GloDLS**](https://glodls.to/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
 - [**isoHunt**](https://isohunt.nz/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
 - [**iDope**](https://idope.se/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
@@ -70,6 +72,7 @@ ___
 - [**Knaben**](https://knaben.eu/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
 - [**LimeTorrents**](https://www.limetorrents.lol/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
 - [**RuTor**](http://rutor.info/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
+- [**snowfl**](https://snowfl.com/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]	
 - [**Solid Torrents**](https://solidtorrents.to/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
 - [**Torlock**](https://www.torlock2.com/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
 - [**Torrent Downloads**](https://www.torrentdownloads.pro/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
@@ -79,8 +82,8 @@ ___
 - [**Torrentz2nz**](https://torrentz2.nz/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
 - [**YourBittorrent**](https://yourbittorrent.com/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
 
-!!! :icon-light-bulb: Tips
-"Use Jackett or Prowlarr to make it easier for you to search for items from all the torrents listed above in just one click."
+!!! Tips
+Use Jackett or Prowlarr to make it easier for you to search for items from all the torrents listed above in just one click
 !!!
 
 

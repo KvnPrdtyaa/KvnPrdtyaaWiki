@@ -60,7 +60,7 @@ ___
 - [**Badass Torrents**](https://badasstorrents.com/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
 - [**BitSearch**](https://bitsearch.to/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
 - [**BT4G**](https://bt4gprx.com/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
-- [**BullTorrent**](https://www.bulltorrent.com/)[!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
+- [**BullTorrent**](https://www.bulltorrent.com/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
 - [**EXT Torrents**](https://ext.to/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
 - [**ExtraTorrent.st**](https://extratorrent.st/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
 - [**EZTV**](https://eztv.re/) [!badge variant="dark" size="xs" text="TV Shows"]

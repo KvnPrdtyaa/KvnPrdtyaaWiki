@@ -47,7 +47,7 @@ ___
     Need Premium Account for Download (Rapidgator)
 - [**ShareBB**](https://sharebb.me/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"] [!badge variant="dark" size="xs" text="Forum"]
     - Need Register to Access The Site
-- [**SoftArchive**](https://sanet.ws/full/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
+- [**SANET**](https://sanet.st/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
     - Need Premium Account for Download (Rapidgator & Nitroflare)
 - [**TehParadox**](https://tehparadox.net/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"] [!badge variant="dark" size="xs" text="Forum"]
     - Need Register to Reveal the Hidden Links Download

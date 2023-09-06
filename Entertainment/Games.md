@@ -5,7 +5,7 @@ icon: ":video_game:"
 ![](/static/assets/banner/games.png)
 # Games
 
-DDL / Repack / Torrents
+DDL / Repacks / Torrents
 ___
 
 ## DDL
@@ -37,7 +37,7 @@ ___
     - Great collection of HOGs, registration is required to access the content.
 
 
-## Repack
+## Repacks
 - [**Chovka Repacks**](https://repack.info/)
 - [**DODI Repacks**](https://dodi-repacks.site/)
 - [**ELAmigos**](https://elamigos.site/)
@@ -55,4 +55,4 @@ ___
 - [**Rustorka**](https://rustorka.com/forum/index.php) [!badge variant="dark" size="xs" text="Forum"]
 - [**RuTor**](http://www.rutor.info/)
 - [**RuTracker**](https://rutracker.org/forum/index.php) [!badge variant="dark" size="xs" text="Forum"]
-- [**Tapocheck**](https://tapochek.net/index.php) [!badge variant="dark" size="xs" text="Forum"]
+- [**Tapochek**](https://tapochek.net/index.php) [!badge variant="dark" size="xs" text="Forum"]

@@ -9,35 +9,39 @@ This is a collection of encoding guides for beginners with complete steps Includ
 ___
 
 ## How To Encode
+- [**x264 Documentation**](http://www.chaneru.com/Roku/HLS/X264_Settings.htm) [!badge variant="dark" size="xs" text="Docs"] / [*Alternative*](https://encodingwissen.de/codecs/x264/referenz/)
+- [**X265 Documentation**](https://x265.readthedocs.io/en/master/) [!badge variant="dark" size="xs" text="Docs"]
+    - Official Documentation x265 Codec
+- [**x265 Encoding Tutorial with Staxrip**](https://staxrip.github.io/x265-encoding-tutorial/#configuring-the-video-encoder)
+    - Official Encoding Guide by Staxrip for x265 Encoding
 - [**A&E's Technical Guides to All Things Audio and Video**](https://www.animemusicvideos.org/guides/avtech31/) / [*Offline Guide*](https://www.animemusicvideos.org/guides/avtech31/EADFAGLOLZ-20101010.zip)
+- [**Anime Encoding Guide for x265 (HEVC) & AAC/OPUS (and Why to Never Use FLAC)**](https://kokomins.wordpress.com/2019/10/10/anime-encoding-guide-for-x265-and-why-to-never-use-flac/)
+- [**AyumiLove MeGUI x264 Encoding Settings Guide (HD Quality)**](https://ayumilove.net/ayumilove-megui-x264-encoding-settings-guide-hd-quality/)
+- [**BodoiCuHo x264 Encoding Guide**](https://bodoicuho.ucoz.ru/)
+    - another great reading about encoding from BodoiCuHo (encoder for TayTo, VietHD and internal encoder for HDBits.org)
+- [**Encoding DVDs to x264**](https://github.com/Dobatymo/qshqencodingguide/blob/master/EncodingGuide.md)
+- [**Encoding Guide By Neko Encodes**](https://docs.google.com/document/d/1Ev_hqUnHAztvUxg4X3VFlb8W728wphg-el7K_4pPlr8/edit?pli=1)
+- [**Explanation of x264 tune**](https://superuser.com/questions/564402/explanation-of-x264-tune)
+- [**guide.encode.moe**](https://guide.encode.moe/) / [*Alternative*](https://guideencodemoe-mkdocs.readthedocs.io/)
+    - Include Fansubbing Guide
+- [**Guide To Mastering Handbrake**](https://www.rapidseedbox.com/blog/guide-to-mastering-handbrake)
+- [**HEVC Encoding with StaxRip**](https://telegra.ph/HEVC-Encoding-with-StaxRip-Settings-for-best-compression-included-05-12)
+- [**Lighterra**](https://www.lighterra.com/papers/videoencodingh264/)
+- [**MeGUI Wiki**](https://en.wikibooks.org/wiki/MeGUI) [!badge variant="dark" size="xs" text="Wiki"]
+    - Official Wikibooks for MeGUI Apps
+- [**silentaperture Encode Guide**](https://silentaperture.gitlab.io/mdbook-guide/)
+    - Advanced Encoding Guide Include Filtering guide
+- [**Sometimes Archives Things**](https://sometimes-archives-things.github.io/archived-things/)
+    - Great Guide Encode, Remux, Ripping, etc. Collections from PTP, BTN & Blutopia.
 - [**The Guide Encoding**](https://encoding-guide.neocities.org/)
 - [**Yuki Subs**](https://yukisubs.wordpress.com/guides/)
     - Fansubbing & Encoding With Complex Steps
-- [**X265 Documentation**](https://x265.readthedocs.io/en/master/) [!badge variant="dark" size="xs" text="Docs"]
-    - Official Documentation x265 Codec
-- [**guide.encode.moe**](https://guide.encode.moe/) / [*Alternative*](https://guideencodemoe-mkdocs.readthedocs.io/)
-    - Include Fansubbing Guide
-- [**silentaperture Encode Guide**](https://silentaperture.gitlab.io/mdbook-guide/)
-    - Advanced Encoding Guide Include Filtering guide
+
+
+## FFmpeg
 - [**slhck**](https://slhck.info/posts/)
     - FFmpeg Complete Guide
-- [**x264 Documentation**](http://www.chaneru.com/Roku/HLS/X264_Settings.htm) [!badge variant="dark" size="xs" text="Docs"] / [*Alternative*](https://encodingwissen.de/codecs/x264/referenz/)
-- [**Lighterra**](https://www.lighterra.com/papers/videoencodingh264/)
-- [**Explanation of x264 tune**](https://superuser.com/questions/564402/explanation-of-x264-tune)
-- [**Encoding DVDs to x264**](https://github.com/Dobatymo/qshqencodingguide/blob/master/EncodingGuide.md)
-- [**Guide To Mastering Handbrake**](https://www.rapidseedbox.com/blog/guide-to-mastering-handbrake)
-- [**HEVC Encoding with StaxRip**](https://telegra.ph/HEVC-Encoding-with-StaxRip-Settings-for-best-compression-included-05-12)
-- [**Anime Encoding Guide for x265 (HEVC) & AAC/OPUS (and Why to Never Use FLAC)**](https://kokomins.wordpress.com/2019/10/10/anime-encoding-guide-for-x265-and-why-to-never-use-flac/)
-- [**BodoiCuHo x264 Encoding Guide**](https://bodoicuho.ucoz.ru/)
-    - another great reading about encoding from BodoiCuHo (encoder for TayTo, VietHD and internal encoder for HDBits.org)
-- [**Encoding Guide By Neko Encodes**](https://docs.google.com/document/d/1Ev_hqUnHAztvUxg4X3VFlb8W728wphg-el7K_4pPlr8/edit?pli=1)
-- [**MeGUI Wiki**](https://en.wikibooks.org/wiki/MeGUI) [!badge variant="dark" size="xs" text="Wiki"]
-    - Official Wikibooks for MeGUI Apps
-- [**Sometimes Archives Things**](https://sometimes-archives-things.github.io/archived-things/)
-    - Great Guide Encode, Remux, Ripping, etc. Collections from PTP, BTN & Blutopia.
-- [**AyumiLove MeGUI x264 Encoding Settings Guide (HD Quality)**](https://ayumilove.net/ayumilove-megui-x264-encoding-settings-guide-hd-quality/)
-- [**x265 Encoding Tutorial with Staxrip**](https://staxrip.github.io/x265-encoding-tutorial/#configuring-the-video-encoder)
-    - Official Encoding Guide by Staxrip for x265 Encoding
+
 
 ## Filtering
 - [**Kaleido Kageru Guide**](https://blog.kageru.moe/)

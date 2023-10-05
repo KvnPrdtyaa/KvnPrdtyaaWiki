@@ -5,7 +5,7 @@ icon: "../static/assets/icon/mpv.png"
 ![](/static/assets/banner/mpv.png)
 # MPV Player Settings
 
-mpv Configuration Guide for better usability
+Collection guides, configurations, and scripts for MPV.
 ___
 
 - [**Arch Linux mpv**](https://wiki.archlinux.org/title/mpv)
@@ -16,6 +16,7 @@ ___
 - [**iamscum mpv conf**](https://iamscum.wordpress.com/guides/videoplayback-guide/mpv-conf/)
 - [**iamscum video playback guide**](https://iamscum.wordpress.com/guides/videoplayback-guide/)
 - [**kokomins mpv config guide**](https://kokomins.wordpress.com/2019/10/14/mpv-config-guide/)
+- [**mpv faq**](https://github.com/mpv-player/mpv/wiki/FAQ)
 - [**mpv for anime**](https://kohana.fi/article/mpv-for-anime)
 - [**mpv manual**](https://mpv.io/manual/master/)
    - official documentation for mpv

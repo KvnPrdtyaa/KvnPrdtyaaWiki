@@ -22,7 +22,7 @@ ___
 - [**Encoding DVDs to x264**](https://github.com/Dobatymo/qshqencodingguide/blob/master/EncodingGuide.md)
 - [**Encoding Guide By Neko Encodes**](https://docs.google.com/document/d/1Ev_hqUnHAztvUxg4X3VFlb8W728wphg-el7K_4pPlr8/edit?pli=1)
 - [**Explanation of x264 tune**](https://superuser.com/questions/564402/explanation-of-x264-tune)
-- [**guide.encode.moe**](https://guide.encode.moe/) / [***Alternative**](https://guideencodemoe-mkdocs.readthedocs.io/)
+- [**guide.encode.moe**](https://guide.encode.moe/) / [**Alternative**](https://guideencodemoe-mkdocs.readthedocs.io/)
     - Include Fansubbing Guide
 - [**Guide To Mastering Handbrake**](https://www.rapidseedbox.com/blog/guide-to-mastering-handbrake)
 - [**HEVC Encoding with StaxRip**](https://telegra.ph/HEVC-Encoding-with-StaxRip-Settings-for-best-compression-included-05-12)

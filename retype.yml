@@ -4,11 +4,6 @@ url: https://kvnprdtyaa.pages.dev/
 branding:
   title: KvnPrdtyaa
   label: Wiki
-links:
-- text: Star
-  link: https://github.com/KvnPrdtyaa/KvnPrdtyaaWiki
-  icon: mark-github
-  target: blank
 footer:
   copyright: ""
 meta:

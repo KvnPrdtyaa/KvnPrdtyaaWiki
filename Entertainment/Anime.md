@@ -33,6 +33,7 @@ ___
 - [**AniDex**](https://anidex.info/)
 - [**AniRena**](https://www.anirena.com/)
 - [**Erai-raws**](https://www.erai-raws.info/)
+   - Need login to see the content of the website.
 - [**Nyaa**](https://nyaa.si/)
 - [**Shana Project**](https://www.shanaproject.com/)
 

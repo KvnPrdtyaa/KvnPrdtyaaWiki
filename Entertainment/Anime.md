@@ -32,6 +32,10 @@ ___
 ## Torrents
 - [**Erai-raws**](https://www.erai-raws.info/)
 - [**Nyaa**](https://nyaa.si/)
+- [**AniDex**](https://anidex.info/)
+- [**AniRena**](https://www.anirena.com/)
+- [**Shana Project**](https://www.shanaproject.com/)
 
 
 ## Streaming
+- [**KickAssAnime**](https://kickassanime.am/)

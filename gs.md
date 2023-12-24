@@ -8,7 +8,7 @@ icon: ":zap:"
 # Getting Started
 Do this before doing any piracy things!
 this 
-This method is aimed at countries that have strict governments regarding piracy
+> This method is aimed at countries that have strict governments regarding piracy
 
 ___
 

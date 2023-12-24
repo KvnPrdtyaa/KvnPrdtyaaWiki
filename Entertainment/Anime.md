@@ -30,12 +30,15 @@ ___
 - [**Tokyoinsider**](https://www.tokyoinsider.com/)
 
 ## Torrents
-- [**Erai-raws**](https://www.erai-raws.info/)
-- [**Nyaa**](https://nyaa.si/)
 - [**AniDex**](https://anidex.info/)
 - [**AniRena**](https://www.anirena.com/)
+- [**Erai-raws**](https://www.erai-raws.info/)
+- [**Nyaa**](https://nyaa.si/)
 - [**Shana Project**](https://www.shanaproject.com/)
 
 
 ## Streaming
+- [**Animepahe**](https://animepahe.ru/)
+- [**Aniwatch**](https://aniwatch.to/home)
+- [**AniWave**](https://aniwave.to/home)
 - [**KickAssAnime**](https://kickassanime.am/)

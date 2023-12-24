@@ -7,7 +7,7 @@ icon: ":zap:"
 ![](/static/assets/banner/gs.png)
 # Getting Started
 Do this before doing any piracy things!
-this 
+
 > This method is aimed at countries that have strict governments regarding piracy
 
 ___

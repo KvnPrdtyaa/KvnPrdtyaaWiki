@@ -11,7 +11,7 @@ ___
 
 ## DDL
 - [**AniDL**](https://anidl.org/)
-- [**anime2enjoy**](https://www.anime2enjoy.com/)s
+- [**anime2enjoy**](https://www.anime2enjoy.com/)
 - [**anime7**](http://anime7.download/)
 - [**animechiby**](http://www.animechiby.com/)
 - [**AnimeOut**](https://www.animeout.xyz/)
@@ -31,6 +31,7 @@ ___
 
 ## Torrents
 - [**Erai-raws**](https://www.erai-raws.info/)
+- [**Nyaa**](https://nyaa.si/)
 
 
 ## Streaming

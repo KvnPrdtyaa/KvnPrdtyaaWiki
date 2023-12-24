@@ -6,7 +6,7 @@ icon: ":zap:"
 
 ![](/static/assets/banner/gs.png)
 # Getting Started
-Do this before Action!
+Do this before doing any piracy things!
 ___
 
 ## 1. Change your DNS settings

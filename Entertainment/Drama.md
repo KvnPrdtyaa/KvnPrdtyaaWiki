@@ -22,9 +22,8 @@ ___
     - As known As SiN
 
 ## Torrents
-- [**TorrentView**](https://viewtorrent13.com/)
+- [**TorrentView**](https://viewtorrent17.com/)
 - [**TorrentQQ**](https://torrentqq.net/)
-- [**TorrentSir**](http://torrentsir116.com/)
 
 ## Streaming
 - [**AsiaFlix**](https://asiaflix.app/)

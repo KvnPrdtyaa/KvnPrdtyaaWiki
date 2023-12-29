@@ -28,16 +28,16 @@ ___
 ## Streaming
 - [**AsiaFlix**](https://asiaflix.app/)
 - [**Asiancrush**](https://www.asiancrush.com/) [!badge variant="dark" size="xs" text="US/Canada Only"]
-- [**Asianload**](https://asianhdplay.pro/)
+- [**AsianHDPlay**](https://asianhdplay.org/)
 - [**Dramacool**](https://dramacool.hr/)
 - [**Dramafans**](http://www.dramafans.org/)
 - [**Dramahood**](https://kdramahood.com/)
 - [**Dramanice**](https://dramanice.la/)
-- [**Gooddrama**](https://gooddrama.one/)
+- [**Gooddrama**](https://gooddrama.stream/)
 - [**GoPlay**](https://goplay.pw/)
     - if need access token go to their discord and generate access token. [Link](https://discord.gg/yY2P3DQR8S).
 - [**IVDrama**](https://ivdrama.me/)
-- [**KissAsian**](https://kissasian.mx/)
+- [**KissAsian**](https://kissasian.dad/)
 - [**KISSKH**](https://kisskh.co/) [!badge variant="dark" size="xs" text="720p"]
 - [**KissTVShow**](https://kisstvshow.to/)
 - [**KOCOWA**](https://www.kocowa.com/) [!badge variant="dark" size="xs" text="US/Canada Only"]

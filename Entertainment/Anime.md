@@ -17,11 +17,12 @@ ___
 - [**AnimeOut**](https://www.animeout.xyz/)
 - [**animerss**](https://animerss.com/)
    - Need Premium Account for Download (Rapidgator & Nitroflare)
-- [**AnimeTosho**](https://animetosho.org/)   
+- [**AnimeTosho**](https://animetosho.org/)
+   - Provide Torrent's and nzb's too
 - [**chauthanh**](https://chauthanh.info/)
    - provide some dramas too
 - [**Hi10Anime**](https://hi10anime.com/)
-- [**JPFILES**](https://jpfiles.eu/) / [**JPLearner**](http://www.jplearner.to/)
+- [**JPFILES**](https://jpfiles.net/) / [**JPLearner**](http://www.jplearner.to/)
    - provide all stuff from japanese, include(movies, drama, music and many more.)
    - Provide Various Link of DDL Sometimes u Need Premium Account Of DDL Service for getting Fast Download Speed
 - [**Judas DDL**](https://rentry.org/judas-ddl)

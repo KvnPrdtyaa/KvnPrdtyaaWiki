@@ -90,7 +90,7 @@ Use [Jackett](https://github.com/Jackett/Jackett) or [Prowlarr](https://prowlarr
 ## Streaming
 - [**AZMovies**](https://azm.to/) [!badge variant="dark" size="xs" text="Movies"]
 - [**C1NE**](https://c1ne.co/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
-- [**FMovies**](https://fmovies.name/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
+- [**FMovies**](https://fmoviesz.to/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
 - [**Goojara**](https://www.goojara.to/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
 - [**Goku**](https://goku.sx/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]
 - [**HDtoday**](https://hdtoday.cc/) [!badge variant="dark" size="xs" text="Movies"] [!badge variant="dark" size="xs" text="TV Shows"]

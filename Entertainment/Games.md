@@ -38,7 +38,7 @@ ___
 
 
 ## Repacks
-- [**Chovka Repacks**](https://repack.info/)
+- [**Chovka Repacks**](https://repack.info/) [!badge variant="dark" size="xs" text="Telegram Channel"]
 - [**DODI Repacks**](https://dodi-repacks.site/)
 - [**ELAmigos**](https://elamigos.site/)
 - [**FitGirl Repacks**](https://fitgirl-repacks.site/)
@@ -51,6 +51,7 @@ ___
 
 ## Torrents
 - [**EMPRESS Release**](https://telegra.ph/empress-biography-07-15) [!badge variant="dark" size="xs" text="Telegraph"]
+- [**FreeGOGPCGames**](https://freegogpcgames.com/) [!badge variant="dark" size="xs" text="GOG"]
 - [**Mac Torrents**](https://www.torrentmac.net/category/games/) [!badge variant="dark" size="xs" text="Mac OS"]
 - [**Rustorka**](https://rustorka.com/forum/index.php) [!badge variant="dark" size="xs" text="Forum"]
 - [**RuTor**](http://www.rutor.info/)

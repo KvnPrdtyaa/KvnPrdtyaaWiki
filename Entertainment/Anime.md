@@ -27,7 +27,6 @@ ___
    - Provide Various Link of DDL Sometimes u Need Premium Account Of DDL Service for getting Fast Download Speed
 - [**Judas DDL**](https://rentry.org/judas-ddl)
 - [**Kayoanime**](https://kayoanime.com/)
-- [**Ripcrabbyanime**](https://ripcrabbyanime.in/)
 - [**Tokyoinsider**](https://www.tokyoinsider.com/)
 
 ## Torrents
